@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=game\ counter
+comment0.target=Play(Initialize,\ Counter)
+comment1.params=x\ y
+comment1.target=void\ converttozero(int,\ int)
+comment10.params=
+comment10.target=void\ computeScore()
+comment11.params=
+comment11.target=void\ act()
+comment2.params=
+comment2.target=int\ countzeros()
+comment3.params=x2\ y2
+comment3.target=void\ merge(int,\ int)
+comment4.params=
+comment4.target=void\ revert()
+comment5.params=
+comment5.target=void\ pushdown()
+comment6.params=
+comment6.target=void\ fillboard()
+comment7.params=
+comment7.target=boolean\ checkstatus()
+comment8.params=
+comment8.target=void\ updateSelection()
+comment9.params=
+comment9.target=void\ updateBoard()
+numComments=12
